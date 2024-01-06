@@ -7,7 +7,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Avara", "sans-serif"],
+        sans: ["Director", "sans-serif"],
       },
     },
   },

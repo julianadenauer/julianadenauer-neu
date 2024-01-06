@@ -1,12 +1,6 @@
 @font-face {
-    font-family: 'Avara';
-    src:    url('assets/fonts/Avara/Bold/Avara-Bold_web.eot');
-    src:    url('assets/fonts/Avara/Bold/Avara-Bold_web.woff') format('woff'),
-            url('assets/fonts/Avara/Bold/Avara-Bold_web.woff2') format('woff2'),
-            url('assets/fonts/Avara/Bold/Avara-Bold_web.ttf') format('truetype'),
-            url('assets/fonts/Avara/Bold/Avara-Bold_web.svg#svgFontName') format('svg');
-    font-weight: normal;
-    font-style: normal;
+    font-family: Director;
+    src: url("assets/fonts/Degheest/Director-Regular.woff");
 }
 
 @tailwind base;
